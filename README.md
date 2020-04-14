@@ -10,6 +10,16 @@ Also, we are Open Source
 Board is also here.
 
 1. Step one is to create the plan of attack + branding
+    - Nare will be able to do the following things:
+        - Showcase what an artist has been doing for the past x years.
+        - Show case an artists contacts
+        - Display a caricature of the artist/ biggest project they have worked on/engaged in.
+    - Creatives categories
+        - Illustrators
+        - Gamers
+        - Creative coders
+        - Singers
+        - Rappers
 
 Author [Kimani Ndegwa](https://www.kimanindegwa)
 
