@@ -1,6 +1,6 @@
 Nare is a simple tool that allows creatives to have a simple showcase of their work plus an aggregated score of what they
 are currently doing and where. This will take the form of:
-1. A Simple Web App - Typesrcipt + React + Emotion + Redux Saga/Obvservables
+1. A Simple Web App - TBD - Svelte for learning purposes.
 2. Python API Backend built using Flask and GraphQL
 3. Kotlin Mobile app which will take the format of a screensaver application
 
